@@ -81,6 +81,11 @@ const config: Config = {
           label: 'Getting Connected',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
+        { 
+          href: 'https://discord.gg/xBDtwEKYQ4',
+          label: 'Discord Chat',
+          'position: left'
+        },
         // {
         //   href: 'https://github.com/facebook/docusaurus',
         //   label: 'GitHub',

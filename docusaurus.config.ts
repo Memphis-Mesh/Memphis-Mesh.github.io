@@ -84,7 +84,7 @@ const config: Config = {
         { 
           href: 'https://discord.gg/xBDtwEKYQ4',
           label: 'Discord Chat',
-          'position: left'
+          'position': 'left'
         },
         // {
         //   href: 'https://github.com/facebook/docusaurus',

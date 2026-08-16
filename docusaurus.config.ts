@@ -71,7 +71,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://discord.gg/xBDtwEKYQ4',
+          href: 'https://discord.gg/TdsanZHYJM',
           label: 'Discord Chat',
           position: 'left',
         },

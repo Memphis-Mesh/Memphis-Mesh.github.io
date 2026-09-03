@@ -90,7 +90,7 @@ const config: Config = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discord.gg/xBDtwEKYQ4',
+              href: 'https://discord.gg/TdsanZHYJM',
             },
             {
               label: 'GitHub',
